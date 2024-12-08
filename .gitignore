@@ -166,3 +166,4 @@ cython_debug/
 tmp
 generation
 log/*
+.idea/
